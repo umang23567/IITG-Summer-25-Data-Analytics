@@ -14,7 +14,7 @@ Analyzed the NHANES (National Health and Nutrition Examination Survey) dataset t
 - Insight generation and storytelling
 
 ## 🔧 Tools
-- Python (Pandas, Seaborn, Scikit-learn)  
+- Python (Pandas, Matplotlib, Scikit-learn)  
 - Jupyter Notebook
 
 ## 📝 Outcome

@@ -1,7 +1,7 @@
 # NDVI-based Land Cover Classification – Summer Analytics Hackathon 2025
 
 Participated in IIT Guwahati’s **Summer Analytics First Hackathon 2025**, organized by the **Consulting & Analytics Club** and **GeeksforGeeks (GFG)**.  
-🔗 [Challenge Info]([https://aiplanet.com/](https://www.kaggle.com/competitions/summer-analytics-mid-hackathon/overview)) 
+🔗 [Challenge Info](https://aiplanet.com/](https://www.kaggle.com/competitions/summer-analytics-mid-hackathon/overview)
 
 ## Overview
 The objective was to classify land cover types using NDVI time-series data from satellite imagery, with ground-truth labels sourced from OpenStreetMap (OSM). Despite noisy NDVI signals due to cloud cover and annotation inconsistencies, the challenge was to build a **Logistic Regression** model capable of accurate classification.

@@ -15,7 +15,7 @@ The task was to **predict the age group** (Adult or Senior) of individuals based
 - Predictive modeling (classification/regression)  
 
 ## Tools
-- Python (Pandas, Matplotlib, Scikit-learn)  
+- Python (Pandas, NumPy, Matplotlib, Scikit-learn)  
 - Jupyter Notebook
 
 ## Outcome

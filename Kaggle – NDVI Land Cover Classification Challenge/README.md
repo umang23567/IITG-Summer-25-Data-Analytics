@@ -12,9 +12,8 @@ The objective was to classify land cover types using NDVI time-series data from 
 - **Seasonal variations** in NDVI requiring careful preprocessing
 
 ## Key Tasks
-- Data cleaning and imputation (MENTION APPROACH)
-- Outlier (MENTION APPROACH)
-- (ADDITIONAL FEATURE ENGINEERING METNION APPROACH)
+- Data cleaning and imputation (interpolation, median fill)
+- Outlier removal using IQR
 - Feature preparation from NDVI time series
 - Multiclass Logistic Regression modeling and evaluation
 
@@ -23,5 +22,5 @@ The objective was to classify land cover types using NDVI time-series data from 
 - Jupyter Notebook
 
 ## Outcome
-Built a **Logistic Regression** model that achieved **(MENTION)% validation accuracy** in classifying noisy satellite-based land cover data.
+Using only **Feature Engineering** and **Logistic Regression** model, achieved **55.66%** validation accuracy** in classifying noisy satellite-based land cover data.
 The project showcased robust preprocessing and modeling strategies for handling real-world time-series geospatial data.
